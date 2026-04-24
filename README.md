@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ben's Profile
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=foryouos&left_color=blue&right_color=yellow)-->
 
-<!--
-**iNuoers/iNuoers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello My name is Ben,a optimistic boy,love the programming.
+<img src="https://user-assets.sxlcdn.com/images/9527/Fnrnj5JtFfuw8x4iP_-7NSZDpUaU.gif" referrerpolicy="no-referrer" align="right" >
+such as: 
+* Python
+* .Net
+* Java
+* Vue
+* React
 
-Here are some ideas to get you started:
+Feel free to reach out with any question.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+my study notebook is in the Wexin official Accounts Platform.
+
+welcome to my Github.
+         Email : `66623978@qq.com`
+****
+[![LinkedIn Patches Answers Today](https://github-readme-stats.vercel.app/api/pin/?username=iNuoers&repo=linkedin-patches-answers-today)](https://github.com/iNuoers/linkedin-patches-answers-today)
+[![Today's Midi Crossword Answers](https://github-readme-stats.vercel.app/api/pin/?username=iNuoers&repo=nyt-midi-crossword-answers)](https://github.com/iNuoers/nyt-midi-crossword-answers)
+
+
+### Github'message:
+<p dir="auto">
+<img src="https://github-readme-stats.vercel.app/api?username=iNuoers&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNuoers&layout=compact&hide=html" style="max-width: 100%; height:195px; ">
+</p>
